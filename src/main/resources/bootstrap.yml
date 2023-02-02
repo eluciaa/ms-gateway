@@ -6,3 +6,4 @@ spring:
       enabled: true
       label: master
       uri: http://localhost:8091
+      profile: dev
